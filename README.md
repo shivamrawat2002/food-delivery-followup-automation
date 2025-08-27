@@ -46,6 +46,7 @@ following steps:
 ------------------------------------------------------------------------
 
 ## 📝 Detailed Workflow Steps
+### Video link : https://www.loom.com/share/4c3858671e6f4797a81b397cd7b58639?sid=a8d9cff0-37eb-4460-9093-c8f9a63c367e
 
 ### Step 1: Google Forms
 
